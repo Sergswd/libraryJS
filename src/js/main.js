@@ -15,7 +15,7 @@ $('button').eq(2).on('click', () => {
 $('#trigger').click(() => $('#trigger').createModal({
   text: {
     title: 'Modal title',
-    body: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem, dolorum natus temporibus soluta aperiam asperiores, inventore vero officiis cumque assumenda velit, aliquam amet nemo deserunt ducimus voluptatum voluptatem? Provident, illum!'
+    body: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem, dolorum natus temporibus soluta aperiam asperiores, inventore vero officiis cumque assumenda velit, aliquam amet nemo deserunt ducimus voluptatum voluptatem? Provident, illum.'
   },
   btns: {
     count: 3,
